@@ -1,8 +1,0 @@
-# EditorConfig is awesome: https://EditorConfig.org
-
-# top-most EditorConfig file
-root = true
-
-# Apply rules to all Markdown files
-[*.md]
-trim_trailing_whitespace = false
