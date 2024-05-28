@@ -24,9 +24,9 @@
 
 [git](./git_note/git.md)
 
-[java第一次](./java_note/笔记.docx)
+[java第一次学习](./java_note/笔记.docx)（docx文档，下载后打开）
 
-[java第二次](./java_note/笔记.md)
+[java第二次学习](./java_note/笔记.md)
 
 [mysql](./mysql_note/mysql.md)
 
