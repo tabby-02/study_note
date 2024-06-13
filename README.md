@@ -2,17 +2,19 @@
 
 ##课程 
 
+[计算机网络](./Computer_Network/计网.md)
+
 [现代密码学](./Modern_Cryptography/笔记.md)
 
 [数据库原理与应用](./Principles_and_Applications_of_Database/笔记.md)
 
 [操作系统原理与实践](./Operating_System_Principles_and_Practice/笔记.md)
 
-[编译原理](./compiler/笔记.md)
+[编译原理](./Compilation_Principle/笔记.md)
 
 [软件工程](./software_Engineering/笔记.md)
 
-[数据结构](./Data_Structure)
+[数据结构](./Data_Structure_and_Algorithms/)
 
 ##课外 
 
